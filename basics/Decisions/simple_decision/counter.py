@@ -29,5 +29,3 @@ else:
 # Print the values of the counters
 print(f"There are {even_numbers} even numbers")
 print(f"There are {odd_numbers} odd numbers")
-
-

@@ -8,5 +8,5 @@ if second_number > first_number:
     print("The second number is bigger")
 elif first_number > second_number:
     print("The first number is bigger")
-else: print("The numbers are equal")
-
+else:
+    print("The numbers are equal")
