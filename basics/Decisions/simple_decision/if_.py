@@ -4,4 +4,5 @@ book_type = input()
 # If the book us an adventure book, beep will be happy
 if book_type == 'adventure':
     print("I love adventure books!")
+print("Finished reading book")
 
