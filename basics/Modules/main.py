@@ -1,5 +1,5 @@
-import basics.output.simple_message as simple_message
-import basics.output.multiline_message as multiline_message
+import basics.Output.simple_message as simple_message
+import basics.Output.multiline_message as multiline_message
 
 
 def run_block_a():
